@@ -11,6 +11,8 @@ Summary: tabledata is a Python library to represent tabular data. Used for pytab
 
 Development: https://github.com/thombashi/tabledata
 
+Documentation: http://tabledata.rtfd.io/
+
 Current build status
 ====================
 
@@ -18,7 +20,9 @@ Current build status
 <table><tr>
     <td>All platforms:</td>
     <td>
-      <img src="https://img.shields.io/badge/noarch-disabled-lightgrey.svg" alt="noarch disabled">
+      <a href="https://github.com/conda-forge/tabledata-feedstock/actions/workflows/conda-build.yml">
+        <img src="https://github.com/conda-forge/tabledata-feedstock/actions/workflows/conda-build.yml/badge.svg?event=push&branch=main">
+      </a>
     </td>
   </tr>
 </table>
